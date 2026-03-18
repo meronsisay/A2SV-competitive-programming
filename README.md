@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/meronsisay/A2SV-competitive-programming/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/meronsisay/A2SV-competitive-programming/tree/master/0367-valid-perfect-square) |
 ## Brainteaser
 |  |
 | ------- |
@@ -13,4 +14,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/meronsisay/A2SV-competitive-programming/tree/master/0292-nim-game) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/meronsisay/A2SV-competitive-programming/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
