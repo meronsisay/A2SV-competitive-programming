@@ -20,4 +20,8 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/meronsisay/A2SV-competitive-programming/tree/master/0367-valid-perfect-square) |
+## Array
+|  |
+| ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/meronsisay/A2SV-competitive-programming/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
