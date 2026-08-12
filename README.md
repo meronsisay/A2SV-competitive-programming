@@ -9,6 +9,7 @@
 | [0189-rotate-array](https://github.com/meronsisay/A2SV-competitive-programming/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/meronsisay/A2SV-competitive-programming/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/meronsisay/A2SV-competitive-programming/tree/master/0367-valid-perfect-square) |
+| [2413-smallest-even-multiple](https://github.com/meronsisay/A2SV-competitive-programming/tree/master/2413-smallest-even-multiple) |
 ## Brainteaser
 |  |
 | ------- |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/meronsisay/A2SV-competitive-programming/tree/master/0217-contains-duplicate) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/meronsisay/A2SV-competitive-programming/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
