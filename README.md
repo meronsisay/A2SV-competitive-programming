@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/meronsisay/A2SV-competitive-programming/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/meronsisay/A2SV-competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/meronsisay/A2SV-competitive-programming/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/meronsisay/A2SV-competitive-programming/tree/master/0189-rotate-array) |
@@ -54,4 +55,12 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/meronsisay/A2SV-competitive-programming/tree/master/2413-smallest-even-multiple) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/meronsisay/A2SV-competitive-programming/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/meronsisay/A2SV-competitive-programming/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
